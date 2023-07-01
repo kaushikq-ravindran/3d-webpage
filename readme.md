@@ -1,10 +1,13 @@
-**3D Website with Three.js, Spline & Midjourney** \n
+**3D Website with Three.js, Spline & Midjourney** 
+
 This project demonstrates the creation of a 3D website using Three.js, Spline, and Midjourney. The website incorporates a Choose Your Own Adventure concept and explores different approaches to building it.
 
 **Overview**
+
 The project consists of two parts: creating the website using the Spline editor tool without writing any code and recreating it using Three.js with code. The Spline editor tool allows for web-based 3D editing, while Three.js is a JavaScript library for creating 3D graphics on the web.
 
 **Part 1: Creating the Website with Spline (No Code)**
+
 Access the Spline editor tool at spline.design.
 Import an image and place it in the scene.
 Add a sphere and position it accordingly.
@@ -21,6 +24,7 @@ Arrange the lights within the scene.
 Export the project as HTML using the Spline editor tool.
 
 **Part 2: Recreating the Website with Three.js (Code Implementation)**
+
 Change the version of Three.js to use a library called Mod 3, enabling geometry manipulation.
 Include the necessary libraries, including Mod 3, Three.js plugin, a Perlin noise library, and a custom Mod 3 plugin using Perlin noise.
 Set up a basic Three.js scene.
