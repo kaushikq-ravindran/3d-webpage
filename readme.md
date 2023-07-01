@@ -1,4 +1,4 @@
-**3D Website with Three.js, Spline & Midjourney**
+**3D Website with Three.js, Spline & Midjourney** \n
 This project demonstrates the creation of a 3D website using Three.js, Spline, and Midjourney. The website incorporates a Choose Your Own Adventure concept and explores different approaches to building it.
 
 **Overview**
